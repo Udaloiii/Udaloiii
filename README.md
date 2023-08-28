@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs"  />
+  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs"  style="border-radius: 50%" />
 </div>
 
 ###
