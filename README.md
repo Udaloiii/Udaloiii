@@ -29,36 +29,36 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="center">I'm Eugene Udalykh, I'm frontend developer from Belarus.</h4>
+<h4 align="center">I'm Eugene Udalykh and I'm frontend developer from Belarus.</h4>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs"  />
+  <img height="250" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eugene-udalykh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/евгений-удалых-48111a1a9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/udaloiii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:eugene.udalykh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="25" alt="gmail logo"  />
   </a>
   <a href="https://t.me/uda1oiii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="25" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="75" height="25" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">- 🔭I work with JavaScript/TypeScript ,HTML, CSS, popular framework React, also know of adaptive site  construction and accessibility.<br>- 📚 Currently I'm actively developing my skills with API usage,testing, interactive component design and performance optimization.<br>- ⚡ My goal is to continuously develop my skills both through personal projects as well as teamwork.<br>- 💬 If you're interested in seeing some of my work - look at my profile and suggest potential collaboration projects. I appreciate any feedback!<br><br></p>
+<p align="left">🔭 I work with JavaScript/TypeScript ,HTML, CSS, popular framework React, also know of adaptive site  construction and accessibility.<br>📚 Currently I'm actively developing my skills with API usage,testing, interactive component design and performance optimization.<br>⚡ My goal is to continuously develop my skills both through personal projects as well as teamwork.<br>💬 If you're interested in seeing some of my work - look at my profile and suggest potential collaboration projects. I appreciate any feedback!<br><br></p>
 
 ###
 
@@ -66,27 +66,27 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <br>
   <br>
@@ -103,6 +103,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Udaloiii&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Udaloiii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br>
+  <br>
 </div>
+
+###
+
+<h3 align="center">Thank you for visiting my page!</h3>
 
 ###
