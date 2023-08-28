@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/евгений-удалых-48111a1a9" target="_blank">
+  <a href="https://www.linkedin.com/in/eugene-udalykh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/udaloiii/" target="_blank">
