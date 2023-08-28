@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="center">I'm Eugene Udalykh and I from Belarus.</h4>
+<h4 align="center">I'm Eugene Udalykh, I'm frontend developer from Belarus.</h4>
 
 ###
 
