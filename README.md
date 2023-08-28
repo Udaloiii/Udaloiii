@@ -21,19 +21,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/евгений-удалых-48111a1a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/udaloiii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:eugene.udalykh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 <h1 align="center">Hello to you reading this!👋</h1>
 
@@ -49,6 +36,19 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs" />
+</div>
+
+###
+<div align="center">
+  <a href="www.linkedin.com/in/евгений-удалых-48111a1a9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/udaloiii/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:eugene.udalykh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
