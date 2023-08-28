@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs"  style="border-radius: 50%" />
+  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs" />
 </div>
 
 ###
 
-<p align="left">- 🔭I work with JavaScript/TypeScript ,HTML, CSS, popular framework React, also know of adaptive site  construction and accessibility.<br>- 📚 Currently I'm actively developing my skills with API usage,testing, interactive component design and performance optimization.<br>- ⚡ My goal is to continuously develop my skills both through personal projects as well as teamwork.</p>
+<p align="left">- 🔭I work with JavaScript/TypeScript ,HTML, CSS, popular framework React, also know of adaptive site  construction and accessibility.<br>- 📚 Currently I'm actively developing my skills with API usage,testing, interactive component design and performance optimization.<br>- ⚡ My goal is to continuously develop my skills both through personal projects as well as teamwork.<br>- 💬 If you're interested in seeing some of my work - look at my profile and suggest potential collaboration projects. I appreciate any feedback!</p>
 
 ###
 
