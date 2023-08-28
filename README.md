@@ -43,36 +43,22 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/евгений-удалых-48111a1a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/udaloiii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:eugene.udalykh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/евгений-удалых-48111a1a9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/udaloiii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:eugene.udalykh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="25" alt="gmail logo"  />
   </a>
   <a href="https://t.me/uda1oiii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="90" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="25" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left">- 🔭I work with JavaScript/TypeScript ,HTML, CSS, popular framework React, also know of adaptive site  construction and accessibility.<br>- 📚 Currently I'm actively developing my skills with API usage,testing, interactive component design and performance optimization.<br>- ⚡ My goal is to continuously develop my skills both through personal projects as well as teamwork.<br>- 💬 If you're interested in seeing some of my work - look at my profile and suggest potential collaboration projects. I appreciate any feedback!</p>
+<p align="left">- 🔭I work with JavaScript/TypeScript ,HTML, CSS, popular framework React, also know of adaptive site  construction and accessibility.<br>- 📚 Currently I'm actively developing my skills with API usage,testing, interactive component design and performance optimization.<br>- ⚡ My goal is to continuously develop my skills both through personal projects as well as teamwork.<br>- 💬 If you're interested in seeing some of my work - look at my profile and suggest potential collaboration projects. I appreciate any feedback!<br><br></p>
 
 ###
 
@@ -102,6 +88,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <br>
+  <br>
 </div>
 
 ###
