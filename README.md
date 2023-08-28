@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRxeWh0bmkwcW8xOW5reDdjcDI5ejh1bzg5Zjl0dmtxbG84ZHBpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif"  />
+  <img height="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d9bfi8ey38i4s4bitr7tup5sydpbmjkv1fqbomsq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
-
 
 <h1 align="center">Hello to you reading this!👋</h1>
 
@@ -30,15 +29,18 @@ Here are some ideas to get you started:
 
 ###
 
-<h5 align="center">I'm Eugene Udalykh and I from Belarus.</h5>
+<h4 align="center">I'm Eugene Udalykh and I from Belarus.</h4>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs" />
+  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQFWetxZMh8NGw/profile-displayphoto-shrink_800_800/0/1689253374935?e=1698883200&v=beta&t=YDTkw6sau8HwXpY4jD_M_sT8OiQqWJuE9UiIXpBcADs"  />
 </div>
 
 ###
+
 <div align="center">
   <a href="www.linkedin.com/in/евгений-удалых-48111a1a9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
