@@ -99,21 +99,19 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Udaloiii&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=Udaloiii&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Udaloiii&theme=dracula"  height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Udaloiii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <br>
   <br>
 </div>
 
-<div align="center">
-  
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Udaloiii&theme=dracula)](https://git.io/streak-stats)"  />
-  
-</div>
-
 ###
-
-<img align="right" src="(https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)"  style="max-width: 100%;">
+<div align="center">
+  <img src="https://www.codewars.com/users/Werdinand/badges/large"  style="max-width: 100%;">
+  <br>
+  <br>
+  </div>
 
 ###
 
