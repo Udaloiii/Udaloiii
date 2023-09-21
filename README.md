@@ -105,6 +105,16 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+<div align="center">
+  
+  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Udaloiii&theme=dracula)](https://git.io/streak-stats)"  />
+  
+</div>
+
+###
+
+<img align="right" src="(https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)"  style="max-width: 100%;">
+
 ###
 
 <h3 align="center">Thank you for visiting my page!</h3>
