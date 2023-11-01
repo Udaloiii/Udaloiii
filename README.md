@@ -108,7 +108,9 @@ Here are some ideas to get you started:
 
 ###
 <div align="center">
-  <img src="https://www.codewars.com/users/Werdinand/badges/large"  style="max-width: 100%;">
+  <a href="https://www.codewars.com/users/Werdinand">
+      <img src="https://www.codewars.com/users/Werdinand/badges/large"  style="max-width: 100%;">
+  </a>
   <br>
   <br>
   </div>
